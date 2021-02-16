@@ -1,5 +1,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/tex
 # Edit at https://www.toptal.com/developers/gitignore?templates=tex
+print ("Дарова бандиты!")
+imput("Введите ваше имя...")
+
 
 ### TeX ###
 ## Core latex/pdflatex auxiliary files:
